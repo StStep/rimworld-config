@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PriorityClean.PriorityCleanSettings">
+		<cleanPrisonBarracks>False</cleanPrisonBarracks>
+		<cleanCell>False</cleanCell>
+		<jobScanRadius>10</jobScanRadius>
+	</ModSettings>
+</SettingsBlock>

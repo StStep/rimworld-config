@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Moody.Settings">
+		<ShowPawnPicture>True</ShowPawnPicture>
+		<MoodyX>3</MoodyX>
+		<MoodyY>27</MoodyY>
+		<MoodyWidth>403</MoodyWidth>
+		<MoodyHeight>186</MoodyHeight>
+		<TinyMode>True</TinyMode>
+		<TinyModeScale>0.8158696</TinyModeScale>
+		<LessonSeenMoody>True</LessonSeenMoody>
+		<LessonSeenSummary>True</LessonSeenSummary>
+		<LessonSeenThought>True</LessonSeenThought>
+		<LessonSeenTemperature>True</LessonSeenTemperature>
+		<LessonSeenSkill>True</LessonSeenSkill>
+		<LessonSeenJob>True</LessonSeenJob>
+		<GroupPawnsByMap>False</GroupPawnsByMap>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>4</version>
+	<mods>Core, ModSwitch, HugsLib, Double Population, Run and Hide, More Furniture [B19], No Random Construction Quality, CleaningArea, [T] MoreFloors, Neuter Animals, Genetic Rim, Hydroponics Growth Sync, Plant Growth Sync, Pawns Paint! Restored, Combat Training, [RF] Rational Romance [1.0], Turn It On and Off v1.2 [1.0], Snow Clearance Sanity, Reasonable Components V1, Weapon Tech, Crafting Quality Rebalanced, [1.0] Tiny Table, We Had a Trader? (Continued), CleaningStation, Questionable Ethics, [RF] Permafrost [1.0], [RF] Archipelagos [1.0], [RF] Tribal Pawn Names [1.0], [RF] Tribal Raiders [1.0], Ugh You Got Me, Veinminer R1.0, Let's Trade! [1.0], Field Medic [1.0], Cut plants before building, Statue of Colonist, More Harvest Designators!, [1.0] DE Surgeries, [1.0] Mass Graves, [1.0] Small Shelf, Various Space Ship Chunk (Continued), [RF] Advanced Bridges [1.0], Quarry, [RF] Fishing [1.0], Where is my weapon?, Alpha Animals, Dubs Mint Menus, Color Coded Mood Bar, Interaction Bubbles, [RF] Pawns are Capable! [1.0], Research Tree, Predator Hunt Alert, Smoked meat, VGP Vegetable Garden, VGP Garden Canning, VGP_CoffeeTeaDrugs, Better Pawn Control, [SYR] Set Up Camp, Auto Seller, Replace Stuff, Incident Person Stat, [T] MoreBedsVanilla, Colony Manager, Hospitality, Medical Tab, Relations Tab, Work Tab, Expanded Prosthetics and Organ Engineering, VGP Garden Fabrics, VGP Garden Tools, Advanced Biomes, Shoo!, Five Second Rule, Just Ignore Me Passing, Smart Medicine, Meals On Wheels, Use Bedrolls, RimQuest, A Dog Said..., Achtung!, Animal Tab, Blueprints, More Mechanoids, [KV] Path Avoid - 1.0, WM Smarter food selection, [1.0] Wild Animal Sex V4.0, [KV] RimFridge - 1.0, [KV] Save Storage, Outfit, Crafting, &amp; Drug Settings - 1.0, [KV] Trading Spot - 1.0, More Sculpture, Pharmacist, Stuffed Floors, Rimworld Search Agency, TD Enhancement Pack, Food Alert, MiningCo. MiningHelmet, Extended Storage, Allow Tool, EdB Prepare Carefully, QualityBuilder, Spoons Hair Mod, VGP Garden Medicine, VGP Garden Resources, Room Sense, Share The Load, Pick Up And Haul, Mining Priority, What Is My Purpose, Animals Logic, Avoid Friendly Fire, Defensive Positions, Locks, Mad Skills, Moody, Nackblad Inc Rimhair, Realistic Rooms, Simple sidearms, Furnace, Conduit Deconstruct, SF Grim Reality 1.0, SF [B19] Priority Treatment, Roof Support B19, Hand Me That Brick Lite, RT Fuse, Skilled Stonecutting, Area Unlocker, PriorityClean Mod, Dismiss Trader, Fixable Mood Debuffs Alert, 4M Mehni's Misc Modifications, Gear Up And Go, Room Food, and Bounded Roof Build Tool</mods>
+	<pawn>
+		<id>03c7c616-fd1c-4dc2-82dc-ec0abf193729</id>
+		<type>Colonist</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<gender>Female</gender>
+		<childhood>LaborCampOrphan63</childhood>
+		<adulthood>BountyHunter41</adulthood>
+		<traitNames>
+			<li>FastLearner</li>
+			<li>GreatMemory</li>
+			<li>Psychopath</li>
+			<li>Gay</li>
+		</traitNames>
+		<traitDegrees>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</traitDegrees>
+		<skinColor>RGBA(0.989, 0.936, 0.845, 1.000)</skinColor>
+		<melanin>0.1961946</melanin>
+		<bodyType>Female</bodyType>
+		<hairDef>SPSAda</hairDef>
+		<hairColor>RGBA(0.250, 0.200, 0.150, 1.000)</hairColor>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal</headGraphicPath>
+		<firstName>Kazuko</firstName>
+		<nickName>Neuro</nickName>
+		<lastName>Becker</lastName>
+		<biologicalAge>20</biologicalAge>
+		<chronologicalAge>30</chronologicalAge>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>3</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>6</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>4</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>4</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel />
+		<implants />
+		<injuries />
+	</pawn>
+</character>

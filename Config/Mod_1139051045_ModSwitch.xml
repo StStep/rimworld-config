@@ -1,0 +1,1978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DoctorVanGogh.ModSwitch.Settings">
+		<sets>
+			<li>
+				<mods>
+					<li>Core</li>
+					<li>1139051045</li>
+					<li>818773962</li>
+					<li>726096646</li>
+					<li>1499844236</li>
+					<li>1517932367</li>
+					<li>773918229</li>
+					<li>870089952</li>
+					<li>902186027</li>
+					<li>1113137502</li>
+					<li>1537872509</li>
+					<li>1454228967</li>
+					<li>1541281528</li>
+					<li>1542761308</li>
+					<li>1543164506</li>
+					<li>1530276152</li>
+					<li>1542424571</li>
+					<li>1542915888</li>
+					<li>1542854752</li>
+					<li>1542004942</li>
+					<li>1541735038</li>
+					<li>1541408076</li>
+					<li>1541893512</li>
+					<li>1540322147</li>
+					<li>1539309846</li>
+					<li>1539314168</li>
+					<li>1539314714</li>
+					<li>1542424705</li>
+					<li>1541978411</li>
+					<li>1541261044</li>
+					<li>1541287769</li>
+					<li>1539025677</li>
+					<li>1539031321</li>
+					<li>1541250497</li>
+					<li>1541722340</li>
+					<li>1542386771</li>
+					<li>1541439712</li>
+					<li>1541428710</li>
+					<li>1539309348</li>
+					<li>1543177113</li>
+					<li>1539311991</li>
+					<li>1539028008</li>
+					<li>1446523594</li>
+					<li>1501832876</li>
+					<li>1516158345</li>
+					<li>1539312975</li>
+					<li>1266570759</li>
+					<li>1537786185</li>
+					<li>1185265132</li>
+					<li>1496570408</li>
+					<li>1244299809</li>
+					<li>1541460369</li>
+					<li>1470065926</li>
+					<li>1440321094</li>
+					<li>1372003680</li>
+					<li>1414697588</li>
+					<li>1543556703</li>
+					<li>715565262</li>
+					<li>753498552</li>
+					<li>715565817</li>
+					<li>709317151</li>
+					<li>725219116</li>
+					<li>725956940</li>
+					<li>746425621</li>
+					<li>1185269798</li>
+					<li>1541721856</li>
+					<li>1307441653</li>
+					<li>1324190225</li>
+					<li>1231617602</li>
+					<li>1309994319</li>
+					<li>1323773476</li>
+					<li>1353625821</li>
+					<li>1354114366</li>
+					<li>730936602</li>
+					<li>712141500</li>
+					<li>708455313</li>
+					<li>846222458</li>
+					<li>1180719857</li>
+					<li>887716138</li>
+					<li>1224175982</li>
+					<li>1180721235</li>
+					<li>1180718516</li>
+					<li>1180719658</li>
+					<li>1090380793</li>
+					<li>1365242717</li>
+					<li>853043503</li>
+					<li>726479594</li>
+					<li>1339135272</li>
+					<li>1114619043</li>
+					<li>755227567</li>
+					<li>761421485</li>
+					<li>735106432</li>
+					<li>754637870</li>
+					<li>725447220</li>
+					<li>1185274792</li>
+					<li>1185276569</li>
+					<li>1355637255</li>
+					<li>1356838246</li>
+					<li>1279012058</li>
+					<li>1345928533</li>
+					<li>1346064449</li>
+					<li>1098354593</li>
+					<li>1134165362</li>
+					<li>761219125</li>
+					<li>1157085076</li>
+					<li>731111514</li>
+					<li>826998327</li>
+					<li>727687246</li>
+					<li>848972794</li>
+					<li>927155256</li>
+					<li>726121441</li>
+					<li>838336462</li>
+					<li>1543063349</li>
+					<li>1502876618</li>
+					<li>1506099913</li>
+					<li>1419210165</li>
+					<li>728314182</li>
+					<li>1207390617</li>
+					<li>725153576</li>
+					<li>1294779672</li>
+					<li>1322328003</li>
+					<li>1307316672</li>
+					<li>1366888108</li>
+					<li>1316142788</li>
+					<li>1339148170</li>
+					<li>1104718095</li>
+					<li>1136958577</li>
+					<li>1111387020</li>
+					<li>1142770176</li>
+					<li>1257032899</li>
+					<li>1544045456</li>
+					<li>1414302321</li>
+					<li>1204108550</li>
+					<li>1454024362</li>
+					<li>947972722</li>
+					<li>1467209473</li>
+					<li>1359645236</li>
+					<li>1509102551</li>
+					<li>1434137894</li>
+					<li>1399212509</li>
+					<li>1447140290</li>
+					<li>1539311500</li>
+					<li>726244033</li>
+				</mods>
+				<name>1.0 Primary</name>
+				<buildNumber>2059</buildNumber>
+			</li>
+		</sets>
+		<attributes>
+			<li>
+				<key>731732064</key>
+				<attributes />
+			</li>
+			<li>
+				<key>761421485</key>
+				<attributes />
+			</li>
+			<li>
+				<key>728381322</key>
+				<attributes />
+			</li>
+			<li>
+				<key>715565262</key>
+				<attributes />
+			</li>
+			<li>
+				<key>781383672</key>
+				<attributes />
+			</li>
+			<li>
+				<key>735106432</key>
+				<attributes />
+			</li>
+			<li>
+				<key>727862986</key>
+				<attributes />
+			</li>
+			<li>
+				<key>758810805</key>
+				<attributes />
+			</li>
+			<li>
+				<key>776679895</key>
+				<attributes />
+			</li>
+			<li>
+				<key>753498552</key>
+				<attributes />
+			</li>
+			<li>
+				<key>818773962</key>
+				<attributes />
+			</li>
+			<li>
+				<key>817231829</key>
+				<attributes />
+			</li>
+			<li>
+				<key>774543761</key>
+				<attributes />
+			</li>
+			<li>
+				<key>727309536</key>
+				<attributes />
+			</li>
+			<li>
+				<key>715565817</key>
+				<attributes />
+			</li>
+			<li>
+				<key>754637870</key>
+				<attributes />
+			</li>
+			<li>
+				<key>774989162</key>
+				<attributes />
+			</li>
+			<li>
+				<key>709317151</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725447220</key>
+				<attributes />
+			</li>
+			<li>
+				<key>892937516</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725219116</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725956940</key>
+				<attributes />
+			</li>
+			<li>
+				<key>935982361</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1176905118</key>
+				<attributes />
+			</li>
+			<li>
+				<key>946390822</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1216424468</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1113694953</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1185265132</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1188485723</key>
+				<attributes />
+			</li>
+			<li>
+				<key>870089952</key>
+				<attributes />
+			</li>
+			<li>
+				<key>759219409</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1198839349</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1185906628</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1185269798</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1185274792</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1185276569</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1185307686</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1185278809</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1192504741</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1355637255</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1244299809</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1185281838</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1161112205</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1338280929</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1356838246</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1307441653</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1333403109</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1322196379</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1279012058</key>
+				<attributes />
+			</li>
+			<li>
+				<key>775061248</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1321600671</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1324190225</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1339135272</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1339148170</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1345928533</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1346064449</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1231617602</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1323773476</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1309994319</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1353625821</key>
+				<attributes />
+			</li>
+			<li>
+				<key>953429016</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725952961</key>
+				<attributes />
+			</li>
+			<li>
+				<key>932951772</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1156492920</key>
+				<attributes />
+			</li>
+			<li>
+				<key>937620661</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1354114366</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1295765061</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1335643106</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1279157549</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1307659290</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1267038946</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1260697681</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1300947757</key>
+				<attributes />
+			</li>
+			<li>
+				<key>879105471</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1220535012</key>
+				<attributes />
+			</li>
+			<li>
+				<key>746425621</key>
+				<attributes />
+			</li>
+			<li>
+				<key>730936602</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1098354593</key>
+				<attributes />
+			</li>
+			<li>
+				<key>712141500</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1134165362</key>
+				<attributes />
+			</li>
+			<li>
+				<key>708455313</key>
+				<attributes />
+			</li>
+			<li>
+				<key>729908976</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1232208162</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1208781538</key>
+				<attributes />
+			</li>
+			<li>
+				<key>818322128</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1120185591</key>
+				<attributes />
+			</li>
+			<li>
+				<key>761219125</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1108968677</key>
+				<attributes />
+			</li>
+			<li>
+				<key>896515996</key>
+				<attributes />
+			</li>
+			<li>
+				<key>726244033</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1114619043</key>
+				<attributes />
+			</li>
+			<li>
+				<key>861032107</key>
+				<attributes />
+			</li>
+			<li>
+				<key>936562361</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1157085076</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1210591890</key>
+				<attributes />
+			</li>
+			<li>
+				<key>735241897</key>
+				<attributes />
+			</li>
+			<li>
+				<key>731111514</key>
+				<attributes />
+			</li>
+			<li>
+				<key>821866381</key>
+				<attributes />
+			</li>
+			<li>
+				<key>755227567</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1139051045</key>
+				<attributes />
+			</li>
+			<li>
+				<key>826998327</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1191518527</key>
+				<attributes />
+			</li>
+			<li>
+				<key>846222458</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1114212525</key>
+				<attributes />
+			</li>
+			<li>
+				<key>727687246</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1133730557</key>
+				<attributes />
+			</li>
+			<li>
+				<key>857164561</key>
+				<attributes />
+			</li>
+			<li>
+				<key>773918229</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1180719857</key>
+				<attributes />
+			</li>
+			<li>
+				<key>857350593</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1220823511</key>
+				<attributes />
+			</li>
+			<li>
+				<key>848972794</key>
+				<attributes />
+			</li>
+			<li>
+				<key>947100573</key>
+				<attributes />
+			</li>
+			<li>
+				<key>927155256</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1207390617</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1158568885</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1222814240</key>
+				<attributes />
+			</li>
+			<li>
+				<key>726121441</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1228122211</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1171600778</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1238308608</key>
+				<attributes />
+			</li>
+			<li>
+				<key>705924057</key>
+				<attributes />
+			</li>
+			<li>
+				<key>903253578</key>
+				<attributes />
+			</li>
+			<li>
+				<key>887716138</key>
+				<attributes />
+			</li>
+			<li>
+				<key>838336462</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1252997910</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1224175982</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1206943745</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1180847426</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1180721235</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1180718516</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1180719658</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1268829163</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1202250958</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725623521</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725828157</key>
+				<attributes />
+			</li>
+			<li>
+				<key>932857483</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1208163715</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1090380793</key>
+				<attributes />
+			</li>
+			<li>
+				<key>946944965</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1164595567</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1208215797</key>
+				<attributes />
+			</li>
+			<li>
+				<key>811181658</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Core</key>
+				<attributes />
+			</li>
+			<li>
+				<key>ElectricStoneCutting_v1.01</key>
+				<attributes />
+			</li>
+			<li>
+				<key>852998459</key>
+				<attributes />
+			</li>
+			<li>
+				<key>746631165</key>
+				<attributes />
+			</li>
+			<li>
+				<key>840043916</key>
+				<attributes />
+			</li>
+			<li>
+				<key>763575600</key>
+				<attributes />
+			</li>
+			<li>
+				<key>726096646</key>
+				<attributes />
+			</li>
+			<li>
+				<key>883900194</key>
+				<attributes />
+			</li>
+			<li>
+				<key>797360572</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725130005</key>
+				<attributes />
+			</li>
+			<li>
+				<key>858563557</key>
+				<attributes />
+			</li>
+			<li>
+				<key>881100382</key>
+				<attributes />
+			</li>
+			<li>
+				<key>882641145</key>
+				<attributes />
+			</li>
+			<li>
+				<key>822190235</key>
+				<attributes />
+			</li>
+			<li>
+				<key>789311421</key>
+				<attributes />
+			</li>
+			<li>
+				<key>806662500</key>
+				<attributes />
+			</li>
+			<li>
+				<key>819520926</key>
+				<attributes />
+			</li>
+			<li>
+				<key>726479594</key>
+				<attributes />
+			</li>
+			<li>
+				<key>837566991</key>
+				<attributes />
+			</li>
+			<li>
+				<key>771073854</key>
+				<attributes />
+			</li>
+			<li>
+				<key>809961552</key>
+				<attributes />
+			</li>
+			<li>
+				<key>832990295</key>
+				<attributes />
+			</li>
+			<li>
+				<key>832151070</key>
+				<attributes />
+			</li>
+			<li>
+				<key>779592154</key>
+				<attributes />
+			</li>
+			<li>
+				<key>740930354</key>
+				<attributes />
+			</li>
+			<li>
+				<key>799834506</key>
+				<attributes />
+			</li>
+			<li>
+				<key>785754949</key>
+				<attributes />
+			</li>
+			<li>
+				<key>832245101</key>
+				<attributes />
+			</li>
+			<li>
+				<key>810339752</key>
+				<attributes />
+			</li>
+			<li>
+				<key>848721494</key>
+				<attributes />
+			</li>
+			<li>
+				<key>853242955</key>
+				<attributes />
+			</li>
+			<li>
+				<key>834016280</key>
+				<attributes />
+			</li>
+			<li>
+				<key>734709234</key>
+				<attributes />
+			</li>
+			<li>
+				<key>850429707</key>
+				<attributes />
+			</li>
+			<li>
+				<key>850451941</key>
+				<attributes />
+			</li>
+			<li>
+				<key>733997423</key>
+				<attributes />
+			</li>
+			<li>
+				<key>730528968</key>
+				<attributes />
+			</li>
+			<li>
+				<key>848088784</key>
+				<attributes />
+			</li>
+			<li>
+				<key>802218392</key>
+				<attributes />
+			</li>
+			<li>
+				<key>823134509</key>
+				<attributes />
+			</li>
+			<li>
+				<key>840429520</key>
+				<attributes />
+			</li>
+			<li>
+				<key>817014269</key>
+				<attributes />
+			</li>
+			<li>
+				<key>834522171</key>
+				<attributes />
+			</li>
+			<li>
+				<key>824303869</key>
+				<attributes />
+			</li>
+			<li>
+				<key>728314182</key>
+				<attributes />
+			</li>
+			<li>
+				<key>717632155</key>
+				<attributes />
+			</li>
+			<li>
+				<key>823126273</key>
+				<attributes />
+			</li>
+			<li>
+				<key>822180758</key>
+				<attributes />
+			</li>
+			<li>
+				<key>826824646</key>
+				<attributes />
+			</li>
+			<li>
+				<key>834823750</key>
+				<attributes />
+			</li>
+			<li>
+				<key>846276095</key>
+				<attributes />
+			</li>
+			<li>
+				<key>724766205</key>
+				<attributes />
+			</li>
+			<li>
+				<key>843504745</key>
+				<attributes />
+			</li>
+			<li>
+				<key>780996548</key>
+				<attributes />
+			</li>
+			<li>
+				<key>766959460</key>
+				<attributes />
+			</li>
+			<li>
+				<key>863415966</key>
+				<attributes />
+			</li>
+			<li>
+				<key>841764023</key>
+				<attributes />
+			</li>
+			<li>
+				<key>728315620</key>
+				<attributes />
+			</li>
+			<li>
+				<key>825450669</key>
+				<attributes />
+			</li>
+			<li>
+				<key>794133184</key>
+				<attributes />
+			</li>
+			<li>
+				<key>809774756</key>
+				<attributes />
+			</li>
+			<li>
+				<key>887719487</key>
+				<attributes />
+			</li>
+			<li>
+				<key>870526178</key>
+				<attributes />
+			</li>
+			<li>
+				<key>735268789</key>
+				<attributes />
+			</li>
+			<li>
+				<key>831053627</key>
+				<attributes />
+			</li>
+			<li>
+				<key>876729369</key>
+				<attributes />
+			</li>
+			<li>
+				<key>843437166</key>
+				<attributes />
+			</li>
+			<li>
+				<key>830221184</key>
+				<attributes />
+			</li>
+			<li>
+				<key>754773948</key>
+				<attributes />
+			</li>
+			<li>
+				<key>850347623</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725949967</key>
+				<attributes />
+			</li>
+			<li>
+				<key>840725070</key>
+				<attributes />
+			</li>
+			<li>
+				<key>818430189</key>
+				<attributes />
+			</li>
+			<li>
+				<key>887719112</key>
+				<attributes />
+			</li>
+			<li>
+				<key>887718932</key>
+				<attributes />
+			</li>
+			<li>
+				<key>783475829</key>
+				<attributes />
+			</li>
+			<li>
+				<key>776114412</key>
+				<attributes />
+			</li>
+			<li>
+				<key>814898788</key>
+				<attributes />
+			</li>
+			<li>
+				<key>796303006</key>
+				<attributes />
+			</li>
+			<li>
+				<key>884312231</key>
+				<attributes />
+			</li>
+			<li>
+				<key>884846971</key>
+				<attributes />
+			</li>
+			<li>
+				<key>872473981</key>
+				<attributes />
+			</li>
+			<li>
+				<key>821655202</key>
+				<attributes />
+			</li>
+			<li>
+				<key>817996020</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725153576</key>
+				<attributes />
+			</li>
+			<li>
+				<key>818134054</key>
+				<attributes />
+			</li>
+			<li>
+				<key>820970594</key>
+				<attributes />
+			</li>
+			<li>
+				<key>895944018</key>
+				<attributes />
+			</li>
+			<li>
+				<key>899714534</key>
+				<attributes />
+			</li>
+			<li>
+				<key>835555932</key>
+				<attributes />
+			</li>
+			<li>
+				<key>824759276</key>
+				<attributes />
+			</li>
+			<li>
+				<key>751841890</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725952322</key>
+				<attributes />
+			</li>
+			<li>
+				<key>731111356</key>
+				<attributes />
+			</li>
+			<li>
+				<key>728978927</key>
+				<attributes />
+			</li>
+			<li>
+				<key>821065788</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725657237</key>
+				<attributes />
+			</li>
+			<li>
+				<key>859188486</key>
+				<attributes />
+			</li>
+			<li>
+				<key>833735722</key>
+				<attributes />
+			</li>
+			<li>
+				<key>726951285</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Patient Sanity</key>
+				<attributes />
+			</li>
+			<li>
+				<key>MBS Double Sleeping Spot</key>
+				<attributes />
+			</li>
+			<li>
+				<key>837080832</key>
+				<attributes />
+			</li>
+			<li>
+				<key>796643425</key>
+				<attributes />
+			</li>
+			<li>
+				<key>852219957</key>
+				<attributes />
+			</li>
+			<li>
+				<key>827346960</key>
+				<attributes />
+			</li>
+			<li>
+				<key>761379469</key>
+				<attributes />
+			</li>
+			<li>
+				<key>852142694</key>
+				<attributes />
+			</li>
+			<li>
+				<key>848250236</key>
+				<attributes />
+			</li>
+			<li>
+				<key>822107128</key>
+				<attributes />
+			</li>
+			<li>
+				<key>822106352</key>
+				<attributes />
+			</li>
+			<li>
+				<key>822106946</key>
+				<attributes />
+			</li>
+			<li>
+				<key>822470192</key>
+				<attributes />
+			</li>
+			<li>
+				<key>760088748</key>
+				<attributes />
+			</li>
+			<li>
+				<key>836308268</key>
+				<attributes />
+			</li>
+			<li>
+				<key>ExtendedStorage-master</key>
+				<attributes />
+			</li>
+			<li>
+				<key>751049133</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Override</key>
+				<attributes />
+			</li>
+			<li>
+				<key>ZhentarFix</key>
+				<attributes />
+			</li>
+			<li>
+				<key>ZhentarTweaks</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Low pop storytellers</key>
+				<attributes />
+			</li>
+			<li>
+				<key>842086205</key>
+				<attributes />
+			</li>
+			<li>
+				<key>732930564</key>
+				<attributes />
+			</li>
+			<li>
+				<key>761315214</key>
+				<attributes />
+			</li>
+			<li>
+				<key>826366050</key>
+				<attributes />
+			</li>
+			<li>
+				<key>737358776</key>
+				<attributes />
+			</li>
+			<li>
+				<key>803734444</key>
+				<attributes />
+			</li>
+			<li>
+				<key>804170072</key>
+				<attributes />
+			</li>
+			<li>
+				<key>730384702</key>
+				<attributes />
+			</li>
+			<li>
+				<key>848365865</key>
+				<attributes />
+			</li>
+			<li>
+				<key>731735894</key>
+				<attributes />
+			</li>
+			<li>
+				<key>730899625</key>
+				<attributes />
+			</li>
+			<li>
+				<key>832333531</key>
+				<attributes />
+			</li>
+			<li>
+				<key>837279896</key>
+				<attributes />
+			</li>
+			<li>
+				<key>745193823</key>
+				<attributes />
+			</li>
+			<li>
+				<key>824831260</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Rimfire 2.2</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Ushanka16_0</key>
+				<attributes />
+			</li>
+			<li>
+				<key>848321091</key>
+				<attributes />
+			</li>
+			<li>
+				<key>MuffaloOverhaul-MuffaloOverhaul-1.0</key>
+				<attributes />
+			</li>
+			<li>
+				<key>859466666</key>
+				<attributes />
+			</li>
+			<li>
+				<key>824132570</key>
+				<attributes />
+			</li>
+			<li>
+				<key>855799355</key>
+				<attributes />
+			</li>
+			<li>
+				<key>857283007</key>
+				<attributes />
+			</li>
+			<li>
+				<key>863072536</key>
+				<attributes />
+			</li>
+			<li>
+				<key>768448143</key>
+				<attributes />
+			</li>
+			<li>
+				<key>847031944</key>
+				<attributes />
+			</li>
+			<li>
+				<key>CKAnimalPack</key>
+				<attributes />
+			</li>
+			<li>
+				<key>CKAnimalPackADS</key>
+				<attributes />
+			</li>
+			<li>
+				<key>ForestfeyAnimals</key>
+				<attributes />
+			</li>
+			<li>
+				<key>ForestfeyAnimalsADSPatch</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Taiga_Creatures</key>
+				<attributes />
+			</li>
+			<li>
+				<key>TC⁄ADS compatch</key>
+				<attributes />
+			</li>
+			<li>
+				<key>847661538</key>
+				<attributes />
+			</li>
+			<li>
+				<key>728160701</key>
+				<attributes />
+			</li>
+			<li>
+				<key>847146875</key>
+				<attributes />
+			</li>
+			<li>
+				<key>861293344</key>
+				<attributes />
+			</li>
+			<li>
+				<key>861298294</key>
+				<attributes />
+			</li>
+			<li>
+				<key>868884041</key>
+				<attributes />
+			</li>
+			<li>
+				<key>SeedsPlease</key>
+				<attributes />
+			</li>
+			<li>
+				<key>836533781</key>
+				<attributes />
+			</li>
+			<li>
+				<key>BlackFuel</key>
+				<attributes />
+			</li>
+			<li>
+				<key>863827593</key>
+				<attributes />
+			</li>
+			<li>
+				<key>887741394</key>
+				<attributes />
+			</li>
+			<li>
+				<key>CoreDrill-BlackFuelAddon</key>
+				<attributes />
+			</li>
+			<li>
+				<key>841915667</key>
+				<attributes />
+			</li>
+			<li>
+				<key>722085442</key>
+				<attributes />
+			</li>
+			<li>
+				<key>784370602</key>
+				<attributes />
+			</li>
+			<li>
+				<key>853043503</key>
+				<attributes />
+			</li>
+			<li>
+				<key>826153738</key>
+				<attributes />
+			</li>
+			<li>
+				<key>755733069</key>
+				<attributes />
+			</li>
+			<li>
+				<key>739089840</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Modular Tables A16</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Additional Joy Objects</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Medical Training - A16</key>
+				<attributes />
+			</li>
+			<li>
+				<key>731730828</key>
+				<attributes />
+			</li>
+			<li>
+				<key>786233894</key>
+				<attributes />
+			</li>
+			<li>
+				<key>753947874</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Wall Torch Mod V1.1 A16</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Animal Feed Trough V1.1 A16 [V.G.]</key>
+				<attributes />
+			</li>
+			<li>
+				<key>760708576</key>
+				<attributes />
+			</li>
+			<li>
+				<key>Barn Stall V1.0 A16</key>
+				<attributes />
+			</li>
+			<li>
+				<key>839827858</key>
+				<attributes />
+			</li>
+			<li>
+				<key>748619608</key>
+				<attributes />
+			</li>
+			<li>
+				<key>704181221</key>
+				<attributes />
+			</li>
+			<li>
+				<key>766264659</key>
+				<attributes />
+			</li>
+			<li>
+				<key>724602224</key>
+				<attributes />
+			</li>
+			<li>
+				<key>747645520</key>
+				<attributes />
+			</li>
+			<li>
+				<key>858817700</key>
+				<attributes />
+			</li>
+			<li>
+				<key>841760538</key>
+				<attributes />
+			</li>
+			<li>
+				<key>822487597</key>
+				<attributes />
+			</li>
+			<li>
+				<key>794038005</key>
+				<attributes />
+			</li>
+			<li>
+				<key>747397788</key>
+				<attributes />
+			</li>
+			<li>
+				<key>726884610</key>
+				<attributes />
+			</li>
+			<li>
+				<key>722086956</key>
+				<attributes />
+			</li>
+			<li>
+				<key>838360846</key>
+				<attributes />
+			</li>
+			<li>
+				<key>757053824</key>
+				<attributes />
+			</li>
+			<li>
+				<key>862054692</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725488168</key>
+				<attributes />
+			</li>
+			<li>
+				<key>764714133</key>
+				<attributes />
+			</li>
+			<li>
+				<key>727629269</key>
+				<attributes />
+			</li>
+			<li>
+				<key>I've Got You In My Sights</key>
+				<attributes />
+			</li>
+			<li>
+				<key>747313773</key>
+				<attributes />
+			</li>
+			<li>
+				<key>847634810</key>
+				<attributes />
+			</li>
+			<li>
+				<key>880383692</key>
+				<attributes />
+			</li>
+			<li>
+				<key>908065093</key>
+				<attributes />
+			</li>
+			<li>
+				<key>WorldPawnGC</key>
+				<attributes />
+			</li>
+			<li>
+				<key>872762753</key>
+				<attributes />
+			</li>
+			<li>
+				<key>833899765</key>
+				<attributes />
+			</li>
+			<li>
+				<key>851078396</key>
+				<attributes />
+			</li>
+			<li>
+				<key>824131713</key>
+				<attributes />
+			</li>
+			<li>
+				<key>775184718</key>
+				<attributes />
+			</li>
+			<li>
+				<key>844084979</key>
+				<attributes />
+			</li>
+			<li>
+				<key>852324917</key>
+				<attributes />
+			</li>
+			<li>
+				<key>872482948</key>
+				<attributes />
+			</li>
+			<li>
+				<key>841373810</key>
+				<attributes />
+			</li>
+			<li>
+				<key>755224256</key>
+				<attributes />
+			</li>
+			<li>
+				<key>774577413</key>
+				<attributes />
+			</li>
+			<li>
+				<key>738206572</key>
+				<attributes />
+			</li>
+			<li>
+				<key>732569232</key>
+				<attributes />
+			</li>
+			<li>
+				<key>725828794</key>
+				<attributes />
+			</li>
+			<li>
+				<key>738063560</key>
+				<attributes />
+			</li>
+			<li>
+				<key>756216922</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1235553994</key>
+				<attributes />
+			</li>
+			<li>
+				<key>902186027</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1229436168</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1271582812</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1365242717</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1216999901</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1253251478</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1375839677</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1543556703</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1414697588</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1517932367</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1372003680</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1440321094</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1470065926</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541460369</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1499844236</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1496570408</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1542364782</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1537786185</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1266570759</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539312975</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1516158345</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1501832876</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1446523594</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541721856</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539028008</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539311991</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1543177113</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539309348</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541428710</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541439712</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1542386771</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541722340</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541250497</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539031321</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539025677</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541287769</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541261044</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541978411</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1542424705</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539314714</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539314168</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539309846</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1540322147</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541064151</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541893512</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1543063349</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541353047</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541408076</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541735038</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1542004942</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1542854752</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1542915888</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1542424571</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1530276152</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1543164506</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539628074</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1542761308</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1541281528</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1454228967</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1537872509</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1113137502</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1104718095</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1316142788</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1366888108</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1307316672</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1322328003</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1294779672</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1180719500</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1419210165</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1506099913</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1502876618</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1414302321</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1136958577</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1257032899</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1142770176</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1544045456</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1111387020</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1211694919</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1539311500</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1447140290</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1399212509</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1434137894</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1509102551</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1359645236</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1467209473</key>
+				<attributes />
+			</li>
+			<li>
+				<key>947972722</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1454024362</key>
+				<attributes />
+			</li>
+			<li>
+				<key>1204108550</key>
+				<attributes />
+			</li>
+		</attributes>
+	</ModSettings>
+</SettingsBlock>

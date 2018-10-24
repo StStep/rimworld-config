@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Mehni.Misc.Modifications.MeMiMoSettings">
+		<variableRaidRetreat>True</variableRaidRetreat>
+		<retreatDefeatRange>0.4976959~0.7465438</retreatDefeatRange>
+		<allowLongerStays>True</allowLongerStays>
+	</ModSettings>
+</SettingsBlock>

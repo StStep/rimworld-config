@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FactionControl.Settings_ModdedFactions">
+		<customFactions>
+			<li>
+				<faction>TribalRaiders</faction>
+				<requiredCount>1</requiredCount>
+			</li>
+			<li>
+				<faction>AA_BlackHive</faction>
+				<requiredCount>2.723404</requiredCount>
+			</li>
+		</customFactions>
+	</ModSettings>
+</SettingsBlock>
