@@ -251,7 +251,7 @@
     </li>
     <li>
       <key>Hospitality</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Moody</key>
@@ -287,7 +287,7 @@
     </li>
     <li>
       <key>Concept_SidearmsInInventory</key>
-      <value>0.4</value>
+      <value>0.8</value>
     </li>
     <li>
       <key>Concept_SidearmsPrimary</key>
