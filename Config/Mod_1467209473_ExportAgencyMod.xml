@@ -4,6 +4,7 @@
 		<exposeDictionary>
 			<keys>
 				<li>OUTFIT</li>
+				<li>DRUGPOLICY</li>
 			</keys>
 			<values>
 				<li>
@@ -127,6 +128,461 @@
 									</allowedDefs>
 									<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
 									<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+								</li>
+							</internalList>
+						</li>
+						<li>
+							<name>Outfit 5</name>
+							<internalList>
+								<li Class="ThingFilter">
+									<disallowedSpecialFilters />
+									<allowedDefs>
+										<li>Apparel_ShieldBelt</li>
+										<li>Apparel_SmokepopBelt</li>
+										<li>Apparel_TribalA</li>
+										<li>Apparel_Parka</li>
+										<li>Apparel_Pants</li>
+										<li>Apparel_BasicShirt</li>
+										<li>Apparel_CollarShirt</li>
+										<li>Apparel_Duster</li>
+										<li>Apparel_Jacket</li>
+										<li>Apparel_PlateArmor</li>
+										<li>Apparel_FlakVest</li>
+										<li>Apparel_FlakPants</li>
+										<li>Apparel_FlakJacket</li>
+										<li>Apparel_PowerArmor</li>
+										<li>Apparel_flyfire2002_MedicBag</li>
+										<li>Apparel_Osprey</li>
+										<li>Apparel_MiningVest</li>
+										<li>Apparel_CowboyHat</li>
+										<li>Apparel_BowlerHat</li>
+										<li>Apparel_TribalHeaddress</li>
+										<li>Apparel_Tuque</li>
+										<li>Apparel_WarMask</li>
+										<li>Apparel_WarVeil</li>
+										<li>Apparel_SimpleHelmet</li>
+										<li>Apparel_AdvancedHelmet</li>
+										<li>Apparel_PowerArmorHelmet</li>
+										<li>Apparel_PsychicFoilHelmet</li>
+										<li>Apparel_MiningHelmet</li>
+									</allowedDefs>
+									<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+									<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+								</li>
+							</internalList>
+						</li>
+					</internalList>
+				</li>
+				<li>
+					<internalList>
+						<li>
+							<name>Social drugs</name>
+							<internalList>
+								<li Class="DrugPolicyEntry">
+									<drug>Beer</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>SmokeleafJoint</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Skag</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_FeatherdustJoint</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Dreamstick</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Cigarette</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Viko</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Zope</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Cigar</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_RoyalJelly</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Ambrosia</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>RC_Shrooms</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Yayo</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Flake</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>PsychiteTea</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_ElectroEgg</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GoJuice</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>WakeUp</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Penoxycyline</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_PoisonAmpoule</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_AgePills</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_VirulentPoison</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Luciferium</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+							</internalList>
+						</li>
+						<li>
+							<name>No drugs</name>
+							<internalList>
+								<li Class="DrugPolicyEntry">
+									<drug>Beer</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>SmokeleafJoint</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Skag</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_FeatherdustJoint</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Dreamstick</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Cigarette</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Viko</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Zope</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Cigar</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_RoyalJelly</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Ambrosia</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>RC_Shrooms</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Yayo</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Flake</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>PsychiteTea</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_ElectroEgg</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GoJuice</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>WakeUp</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Penoxycyline</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_PoisonAmpoule</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_AgePills</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_VirulentPoison</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Luciferium</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+							</internalList>
+						</li>
+						<li>
+							<name>Unrestricted</name>
+							<internalList>
+								<li Class="DrugPolicyEntry">
+									<drug>Beer</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>SmokeleafJoint</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Skag</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_FeatherdustJoint</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Dreamstick</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Cigarette</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Viko</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Zope</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Cigar</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_RoyalJelly</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Ambrosia</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>RC_Shrooms</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Yayo</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Flake</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>PsychiteTea</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_ElectroEgg</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GoJuice</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>WakeUp</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Penoxycyline</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_PoisonAmpoule</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_AgePills</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_VirulentPoison</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Luciferium</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+							</internalList>
+						</li>
+						<li>
+							<name>One drink per day</name>
+							<internalList>
+								<li Class="DrugPolicyEntry">
+									<drug>Beer</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+									<allowScheduled>True</allowScheduled>
+									<takeToInventory>1</takeToInventory>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>SmokeleafJoint</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+									<allowedForJoy>True</allowedForJoy>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Skag</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_FeatherdustJoint</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Dreamstick</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Cigarette</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Viko</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Zope</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Cigar</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_RoyalJelly</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Ambrosia</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>RC_Shrooms</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Yayo</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Flake</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>PsychiteTea</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_ElectroEgg</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GoJuice</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>WakeUp</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Penoxycyline</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_PoisonAmpoule</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_AgePills</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>GR_VirulentPoison</drug>
+									<allowedForAddiction>True</allowedForAddiction>
+								</li>
+								<li Class="DrugPolicyEntry">
+									<drug>Luciferium</drug>
+									<allowedForAddiction>True</allowedForAddiction>
 								</li>
 							</internalList>
 						</li>
