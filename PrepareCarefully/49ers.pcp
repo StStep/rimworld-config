@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <preset>
 	<version>4</version>
-	<mods>Core, ModSwitch, HugsLib, Double Population, Run and Hide, No Random Construction Quality, CleaningArea, Neuter Animals, Hydroponics Growth Sync, Plant Growth Sync, Pawns Paint! Restored, Combat Training, [RF] Rational Romance [1.0], Turn It On and Off v1.3 [1.0], Snow Clearance Sanity, Reasonable Components V1, Weapon Tech, Crafting Quality Rebalanced, [1.0] Tiny Table, We Had a Trader? (Continued), [RF] Permafrost [1.0], [RF] Archipelagos [1.0], [RF] Tribal Pawn Names [1.0], [RF] Tribal Raiders [1.0], Ugh You Got Me, Veinminer R1.0, Let's Trade! [1.0], Field Medic [1.0], Cut plants before building, Statue of Colonist, More Harvest Designators!, [1.0] Mass Graves, [1.0] Small Shelf, Various Space Ship Chunk (Continued), Quarry, Where is my weapon?, Dubs Mint Menus, Color Coded Mood Bar, Interaction Bubbles, [RF] Pawns are Capable! [1.0], Research Tree, Predator Hunt Alert, Better Pawn Control, [SYR] Set Up Camp, Auto Seller, Replace Stuff, Incident Person Stat, Colony Manager, Hospitality, Medical Tab, Relations Tab, Work Tab, Shoo!, Just Ignore Me Passing, Meals On Wheels, Use Bedrolls, RimQuest, Achtung!, Animal Tab, Blueprints, [KV] Path Avoid - 1.0, WM Smarter food selection, [1.0] Wild Animal Sex V4.0, [KV] RimFridge - 1.0, [KV] Save Storage, Outfit, Crafting, &amp; Drug Settings - 1.0, [KV] Trading Spot - 1.0, More Sculpture, Pharmacist, Stuffed Floors, Rimworld Search Agency, TD Enhancement Pack, Food Alert, MiningCo. MiningHelmet, Allow Tool, EdB Prepare Carefully, QualityBuilder, Spoons Hair Mod, Room Sense, Share The Load, Pick Up And Haul, Mining Priority, What Is My Purpose, Animals Logic, Avoid Friendly Fire, Defensive Positions, Locks, Mad Skills, Moody, Nackblad Inc Rimhair, Simple sidearms, Furnace, Conduit Deconstruct, SF [v1.0] Priority Treatment, Roof Support B19, Hand Me That Brick Lite, RT Fuse, Skilled Stonecutting, Area Unlocker, PriorityClean Mod, Dismiss Trader, Fixable Mood Debuffs Alert, 4M Mehni's Misc Modifications, Gear Up And Go, Room Food, Bounded Roof Build Tool, Large Animal Beds, No Fertilized Egg Deterioration, Numbers, RunAndGun, More Faction Interaction, Heat Map, Export Agency, RenameColony, [KV] Faction Control - 1.0, RandomPlus, ShowModDesignators, OgreStack, [RF] Fertile Fields [1.0], Fluffy Breakdowns, Camera+, Reverse Commands, MOD-E, Range Finder, All The Kibble, SameSpot, Animal Variety Coats, A Dog Said..., More Mechanoids, Alpha Animals, Genetic Rim, Dinosauria, GeneticRim Dinosauria Patch, Dinosauria - Patch for A Dog Said..., Rah's Bionics and Surgery Expansion, RimCuisine 1.0, [1.0] DE Surgeries for RBSE only, and SF Grim Reality 1.0</mods>
+	<mods>Core, ModSwitch, HugsLib, Double Population, No Random Construction Quality, CleaningArea, Neuter Animals, Hydroponics Growth Sync, Plant Growth Sync, Turn It On and Off v1.3 [1.0], Reasonable Components V1, Crafting Quality Rebalanced, [1.0] Tiny Table, We Had a Trader? (Continued), [RF] Tribal Pawn Names [1.0], Ugh You Got Me, Veinminer R1.0, Let's Trade! [1.0], Field Medic [1.0], Cut plants before building, More Harvest Designators!, [1.0] Small Shelf, Various Space Ship Chunk (Continued), Where is my weapon?, Dubs Mint Menus, Color Coded Mood Bar, Interaction Bubbles, [RF] Pawns are Capable! [1.0], Research Tree, Predator Hunt Alert, Better Pawn Control, [SYR] Set Up Camp, Auto Seller, Replace Stuff, Incident Person Stat, Colony Manager, Medical Tab, Relations Tab, Shoo!, Just Ignore Me Passing, Use Bedrolls, RimQuest, Achtung!, Blueprints, [KV] Path Avoid - 1.0, WM Smarter food selection, [KV] RimFridge - 1.0, Pharmacist, TD Enhancement Pack, Food Alert, Allow Tool, EdB Prepare Carefully, QualityBuilder, Spoons Hair Mod, Room Sense, Share The Load, Mining Priority, What Is My Purpose, Animals Logic, Avoid Friendly Fire, Defensive Positions, Mad Skills, Moody, Nackblad Inc Rimhair, Furnace, Conduit Deconstruct, SF [v1.0] Priority Treatment, Roof Support B19, RT Fuse, Skilled Stonecutting, Area Unlocker, PriorityClean Mod, Dismiss Trader, Fixable Mood Debuffs Alert, 4M Mehni's Misc Modifications, Gear Up And Go, Room Food, Bounded Roof Build Tool, Large Animal Beds, Numbers, RunAndGun, More Faction Interaction, Export Agency, RenameColony, [KV] Faction Control - 1.0, RandomPlus, ShowModDesignators, OgreStack, Fluffy Breakdowns, Camera+, Reverse Commands, MOD-E, Range Finder, All The Kibble, SameSpot, Animal Variety Coats, No Fertilized Egg Deterioration, Genetic Rim, [RF] Rational Romance [1.0], Weapon Tech, [RF] Permafrost [1.0], [RF] Archipelagos [1.0], Quarry, Stuffed Floors, [1.0] Wild Animal Sex V4.0, Simple sidearms, More Mechanoids, MiningCo. MiningHelmet, Rah's Bionics and Surgery Expansion, [1.0] DE Surgeries for RBSE only, RimCuisine 1.0, Hospitality, A Dog Said..., and SF Grim Reality 1.0</mods>
 	<pawns>
 		<li>
 			<id>f4323d1d-1a85-4706-9620-5eb48617cf61</id>
@@ -276,17 +276,17 @@
 				</li>
 				<li>
 					<name>Plants</name>
-					<value>6</value>
+					<value>5</value>
 					<passion>None</passion>
 				</li>
 				<li>
 					<name>Animals</name>
-					<value>3</value>
+					<value>0</value>
 					<passion>None</passion>
 				</li>
 				<li>
 					<name>Crafting</name>
-					<value>4</value>
+					<value>8</value>
 					<passion>Minor</passion>
 				</li>
 				<li>
