@@ -181,12 +181,15 @@
 								<li Class="DrugPolicyEntry">
 									<drug>Beer</drug>
 									<allowedForAddiction>True</allowedForAddiction>
-									<allowedForJoy>True</allowedForJoy>
+									<allowScheduled>True</allowScheduled>
+									<daysFrequency>0.5</daysFrequency>
+									<onlyIfJoyBelow>0.40375</onlyIfJoyBelow>
 								</li>
 								<li Class="DrugPolicyEntry">
 									<drug>SmokeleafJoint</drug>
 									<allowedForAddiction>True</allowedForAddiction>
-									<allowedForJoy>True</allowedForJoy>
+									<allowScheduled>True</allowScheduled>
+									<onlyIfJoyBelow>0.40375</onlyIfJoyBelow>
 								</li>
 								<li Class="DrugPolicyEntry">
 									<drug>Skag</drug>
